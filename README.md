@@ -36,11 +36,12 @@ Overfitting and Lesso <a href="http://nbviewer.ipython.org/github/anilcs13m/Mach
 Predicting Housing price
 ~~~
 
-PhillyCrime Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/PhillyCrime.ipynb/" target="_blank">PhillyCrime</a>
+Week 1.  PhillyCrime Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/PhillyCrime.ipynb/" target="_blank">PhillyCrime</a>
 
-Multiple Regression Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple_regression_housing_price.ipynb/" target="_blank">MultipleRegression</a>
+Week 2. Multiple Regression Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple_regression_housing_price.ipynb/" target="_blank">MultipleRegression</a>
 
 
-Multiple Regression With Gradient <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple-regression-assignment-with-gradient.ipynb/" target="_blank">MultipleRegressionGradient</a>
+Week 2. Multiple Regression With Gradient <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple-regression-assignment-with-gradient.ipynb/" target="_blank">MultipleRegressionGradient</a>
 
-Multiple Regression Polynomial <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/polynomial-regression-assignment.ipynb/" target="_blank">MultipleRegressionPolinomial</a>
+Week 3. Multiple Regression Polynomial <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/polynomial-regression-assignment.ipynb/" target="_blank">MultipleRegressionPolinomial</a>
+
